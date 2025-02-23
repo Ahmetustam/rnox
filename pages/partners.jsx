@@ -20,7 +20,7 @@ export default function Partners() {
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/YYXCkfsbbSARvGEzBx8W_3gt7ITp4f8YB_2y14SpoiA/%3Fsize%3D4096/https/cdn.discordapp.com/icons/676124992919830548/256b9dd9a6109b1c85ca64677f84f80a.png?format=webp&quality=lossless&width=160&height=160" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Mangoo hosting</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                       Code Share, it offers an ideal platform for developers to share their projects, interact with other developers and sell their projects for money, exploring many projects in different categories and software languages.

@@ -29,7 +29,7 @@ class MyDocument extends Document {
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image:alt" content="RnoxBot" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"

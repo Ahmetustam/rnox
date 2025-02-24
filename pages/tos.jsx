@@ -14,7 +14,6 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ While using the bot, you cannot use it in a way that harms other users for troll purposes.</p>
 <div className="py-3"></div>
-</div>
     </div>
   );
 }

@@ -13,7 +13,8 @@ export default function Tos() {
 <p>⊳ You may not sell or market open source codes through other platforms.</p>
 <div className="py-3"></div>
 <p>⊳ While using the bot, you cannot use it in a way that harms other users for troll purposes.</p>
-<div className="py-3"></div>
+<div className="py-3">
+</div>
     </div>
   );
 }
